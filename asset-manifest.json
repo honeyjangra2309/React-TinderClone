@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-TinderClone/static/css/main.a3ed8a0a.css",
-    "main.js": "/react-TinderClone/static/js/main.c33f7c64.js",
+    "main.js": "/react-TinderClone/static/js/main.94288255.js",
     "static/js/787.824c82ae.chunk.js": "/react-TinderClone/static/js/787.824c82ae.chunk.js",
     "index.html": "/react-TinderClone/index.html",
     "main.a3ed8a0a.css.map": "/react-TinderClone/static/css/main.a3ed8a0a.css.map",
-    "main.c33f7c64.js.map": "/react-TinderClone/static/js/main.c33f7c64.js.map",
+    "main.94288255.js.map": "/react-TinderClone/static/js/main.94288255.js.map",
     "787.824c82ae.chunk.js.map": "/react-TinderClone/static/js/787.824c82ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3ed8a0a.css",
-    "static/js/main.c33f7c64.js"
+    "static/js/main.94288255.js"
   ]
 }
